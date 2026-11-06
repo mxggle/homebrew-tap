@@ -1,6 +1,6 @@
 cask "phraselens" do
-  version "0.16.0"
-  sha256 "b9c7170ec11cf1cacaee400ad6cef683d0341d0bcdd3f9bfe50de9b631e17ca7"
+  version "0.17.0"
+  sha256 "8f1f17c15dcc7de7317ab7a1f4f5c9f51f98bf5048ab33a0422cd215f2ef0999"
 
   url "https://github.com/mxggle/phrase-lens/releases/download/v#{version}/PhraseLens.dmg"
   name "PhraseLens"
